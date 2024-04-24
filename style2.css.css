@@ -162,6 +162,7 @@ a{
 
   .user-image img{
     z-index:-9;
+    width:70px;
   }
 
   @keyframes scaleImage {
